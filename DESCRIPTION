@@ -3,7 +3,7 @@ Type: Package
 Title: Generic functions used in papers
 Version: 0.1.0
 Author: Lewis Spurgin
-Maintainer: The package maintainer <yourself@somewhere.net>
+Maintainer: Lewis Spurgin <l.spurgin@uea.ac.uk>
 Description: Standard error, rounding, etc.
 License: CC0
 Encoding: UTF-8
